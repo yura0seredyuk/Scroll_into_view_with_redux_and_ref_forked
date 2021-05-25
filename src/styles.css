@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.post {
+  height: 200px;
+  background: grey;
+  border: 1px solid black;
+  margin: 5px 15px;
+}
+
+.comment {
+  height: 400px;
+  background: navy;
+  color: white;
+  border: 1px solid black;
+  margin: 5px 15px;
+}
+
+.activeComment {
+  background: green;
+}
